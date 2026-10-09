@@ -10,7 +10,7 @@ h1{
   font-size: 100px;
   text-decoration: underline dotted;
 }
-div{
+.img{
   text-align: center;
 }
 img{
@@ -49,4 +49,12 @@ ul li a {
 
 ul li a:hover {
   background-color: #144A46;
+}
+.footer{
+  left: 0;
+  right: 0;
+  height: 30px;
+  background-color: #329977;
+  color: white;
+  text-align: center;
 }
